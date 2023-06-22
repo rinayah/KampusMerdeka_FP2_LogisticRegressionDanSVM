@@ -1,0 +1,1 @@
+# KampusMerdeka_FP2_LogisticRegressionDanSVM
